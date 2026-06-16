@@ -1,3 +1,1 @@
-console.log('Olá, GIT!');
-
- console.log('CRUD');
+console.log('Olá, Github!');
