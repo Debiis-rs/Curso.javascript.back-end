@@ -11,5 +11,5 @@ const calcularFatorial = (numero) => {
 };
 console.log(`O resultado do fatorial de 4 é:${calcularFatorial(4)}`);
 console.log(`O fatorial de 0 é: ${calcularFatorial(0)}`); 
-console.log(`O fatorial de 8 é: ${calcularFatorial(8).toFixed(2)}`); 
+console.log(`O fatorial de 8 é: ${calcularFatorial(8)}`); 
         
