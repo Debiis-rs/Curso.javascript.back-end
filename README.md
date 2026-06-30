@@ -77,8 +77,6 @@ O objetivo é registrar minha evolução na área de desenvolvimento back-end e 
 
 ✨ Projetos práticos
 
-✨ Anotações pessoais
-
 ✨ Experimentos e testes
 
 ---
